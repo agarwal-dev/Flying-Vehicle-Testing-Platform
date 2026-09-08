@@ -209,7 +209,7 @@ This development allowed the mechanical design to be evaluated as a practical ex
 
 ### Experimental Characterization
 
-Add photographs of the pendulum-based inertia measurement setup here.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b2a412e8-770f-41dc-a038-7851b852d669" />
 
 ---
 
