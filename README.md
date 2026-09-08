@@ -45,6 +45,9 @@ The initial concept consisted of a **gimbal-based structure** designed in SOLIDW
 * Cross-shaped support for the flying vehicle
 * Mechanical joints for controlled rotational motion
 
+<img width="543" height="485" alt="image" src="https://github.com/user-attachments/assets/00e9459c-37a6-487f-a438-ec6a4bdbfe17" />
+
+
 The later implemented setup consisted of:
 
 * Rigid base platform
@@ -52,6 +55,7 @@ The later implemented setup consisted of:
 * Nylon support rod
 * Upper two-degree-of-freedom joint
 * Four-propeller flying vehicle mounted at the top
+
 
 The mechanical arrangement constrains the vehicle's translational motion while permitting rotational motion required for dynamic studies.
 
