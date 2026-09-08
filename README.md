@@ -85,15 +85,14 @@ The CAD development included:
 
 ### CAD Model
 
-Add the overall CAD model image here:
+<img width="676" height="621" alt="image" src="https://github.com/user-attachments/assets/d70d988f-7216-4733-ae05-ce24c6338f5c" />
 
-`/images/cad-model.png`
+
 
 ### Exploded Assembly
 
-Add the exploded view here:
+<img width="536" height="767" alt="image" src="https://github.com/user-attachments/assets/e8e4258a-8c8c-4753-b881-03ca1ef72093" />
 
-`/images/exploded-view.png`
 
 ---
 
@@ -207,20 +206,6 @@ This development allowed the mechanical design to be evaluated as a practical ex
 <img width="927" height="233" alt="image" src="https://github.com/user-attachments/assets/4690ec57-7b9e-4145-a2c8-ddc8119d8984" />
 
 
-### CAD Assembly
-
-Before
-<img width="487" height="705" alt="image" src="https://github.com/user-attachments/assets/de281e2b-0ebc-47cf-9d06-65e08812b3b4" />
-<img width="635" height="532" alt="image" src="https://github.com/user-attachments/assets/33f7d4c2-48ad-408e-8770-0f7ba47a9cbd" />
-
-After
-<img width="425" height="653" alt="image" src="https://github.com/user-attachments/assets/184aeb68-d878-40ed-b817-58fd1129779b" />
-<img width="323" height="297" alt="image" src="https://github.com/user-attachments/assets/f847ab8f-ea73-4c48-8675-1d2b6fd7f587" />
-
-
-### Mechanical Components
-
-Add photographs or CAD models of individually developed components here.
 
 ### Experimental Characterization
 
