@@ -203,11 +203,20 @@ This development allowed the mechanical design to be evaluated as a practical ex
 
 ### Physical Setup
 
-Add photographs of the fabricated setup here.
+<img width="216" height="356" alt="image" src="https://github.com/user-attachments/assets/c8cbe266-14a3-4d0f-a5a6-2fdc207e4bc3" />
+<img width="927" height="233" alt="image" src="https://github.com/user-attachments/assets/4690ec57-7b9e-4145-a2c8-ddc8119d8984" />
+
 
 ### CAD Assembly
 
-Add CAD screenshots here.
+Before
+<img width="487" height="705" alt="image" src="https://github.com/user-attachments/assets/de281e2b-0ebc-47cf-9d06-65e08812b3b4" />
+<img width="635" height="532" alt="image" src="https://github.com/user-attachments/assets/33f7d4c2-48ad-408e-8770-0f7ba47a9cbd" />
+
+After
+<img width="425" height="653" alt="image" src="https://github.com/user-attachments/assets/184aeb68-d878-40ed-b817-58fd1129779b" />
+<img width="323" height="297" alt="image" src="https://github.com/user-attachments/assets/f847ab8f-ea73-4c48-8675-1d2b6fd7f587" />
+
 
 ### Mechanical Components
 
