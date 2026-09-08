@@ -209,7 +209,7 @@ This development allowed the mechanical design to be evaluated as a practical ex
 
 ### Experimental Characterization
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/b2a412e8-770f-41dc-a038-7851b852d669" />
+<img width="1400" height="630" alt="image" src="https://github.com/user-attachments/assets/09ebb92a-1b8a-4001-a089-c3d4329ad598" />
 
 ---
 
