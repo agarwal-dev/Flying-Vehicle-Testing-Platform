@@ -48,6 +48,7 @@ The initial concept consisted of a **gimbal-based structure** designed in SOLIDW
 <img width="543" height="485" alt="image" src="https://github.com/user-attachments/assets/00e9459c-37a6-487f-a438-ec6a4bdbfe17" />
 
 
+
 The later implemented setup consisted of:
 
 * Rigid base platform
